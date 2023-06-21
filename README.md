@@ -9,7 +9,7 @@ La herramienta Acrypt está diseñada para ser fácil de usar y ofrece una inter
 1. Clona o descarga el repositorio de Acrypt.
 2. Asegúrate de tener Python 3.x instalado en tu sistema.
 3. Instala las dependencias ejecutando `pip install -r requirements.txt`.
-4. Ejecuta el programa principal `acrypt.py` desde la línea de comandos: `python acrypt.py`.
+4. Ejecuta el programa principal `Acrypt.py` desde la línea de comandos: `python Acrypt.py`.
 5. Sigue las instrucciones en la interfaz de línea de comandos para utilizar las diferentes funcionalidades de la herramienta.
 
 ## Funcionalidades:
